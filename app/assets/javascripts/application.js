@@ -12,5 +12,8 @@
 //
 //= require jquery
 //= require jquery_ujs
+<<<<<<< HEAD
 //= require mbox
+=======
+>>>>>>> 145efa14779cbe5eaf97d072fcdec9f9257593e2
 //= require_tree .

@@ -1,8 +1,11 @@
 FirstApp::Application.routes.draw do
+<<<<<<< HEAD
 
   root :to => 'testing#index'
   
 
+=======
+>>>>>>> 145efa14779cbe5eaf97d072fcdec9f9257593e2
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
